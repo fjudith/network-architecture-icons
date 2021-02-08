@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1.06667,0,0,1,-2.13333,58)">
+        <rect x="2" y="2" width="60" height="4"/>
+    </g>
+    <g transform="matrix(1,0,0,1,-2,2)">
+        <path d="M2,34L2,30L22,32L14,20L2,20L2,16L16,16L26,32L26,52L2,52L2,48L22,48L22,36L2,34Z"/>
+    </g>
+    <g transform="matrix(0.4,0,0,0.5,-0.8,45)">
+        <rect x="2" y="2" width="60" height="4"/>
+    </g>
+    <g transform="matrix(1,0,0,1,-2,2)">
+        <path d="M24,50L16,50L16,56C16,57.105 16.895,58 18,58L22,58C23.105,58 24,57.105 24,56L24,50Z"/>
+    </g>
+    <g transform="matrix(1,0,0,1,-5,1)">
+        <circle cx="17" cy="41" r="3"/>
+    </g>
+    <g transform="matrix(0.666667,0,0,0.666667,5.66667,14.6667)">
+        <circle cx="17" cy="41" r="3"/>
+    </g>
+    <g transform="matrix(1,0,0,1,-2.25524,-2)">
+        <path d="M2,8C3.104,8 4,7.104 4,6L8,6C8,9.311 5.311,12 2,12L2,8Z"/>
+    </g>
+    <g>
+        <g transform="matrix(1,0,0,1,11.0104,-26.0208)">
+            <path d="M44,30C44,33.311 41.311,36 38,36C34.689,36 32,33.311 32,30L36,30C36,31.104 36.896,32 38,32C39.104,32 40,31.104 40,30L44,30Z"/>
+        </g>
+        <path d="M55.876,8.069L60.405,12.616L57.576,15.444L53.036,10.886C54.204,10.202 55.183,9.231 55.876,8.069Z"/>
+        <path d="M42.124,8.069C42.817,9.23 43.796,10.202 44.964,10.886L40.425,15.425L37.596,12.596L42.124,8.069Z"/>
+        <path d="M47,11.727C47.639,11.892 48.309,11.979 49,11.979C49.691,11.979 50.361,11.892 51,11.727L51,18L47,18L47,11.727Z"/>
+    </g>
+    <g transform="matrix(1.06667,0,0,1,-2.13333,-2)">
+        <rect x="2" y="2" width="60" height="4"/>
+    </g>
+</svg>
