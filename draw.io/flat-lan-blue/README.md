@@ -33,7 +33,7 @@ This work is licensed under the Creative Commons Attribution-NoDerivatives 4.0 I
 
 ## Notes
 
-If you want more items added or any updates please let me know by contacting me by email at enquiries@appliant.net and starting the subject with ”Flat Lan”.
+If you want more items added or any updates please let me know by contacting me by email at enquiries@appliant.net and starting the subject with "Flat Lan".
 
 Thanks
 
